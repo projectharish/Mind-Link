@@ -1,0 +1,10 @@
+<!-- This file would contain the icon image data, but since I cannot process the provided image directly, 
+     please save the brain-circuit icon image you provided as "mind_link_icon_source.png" in the root directory -->
+     
+<!-- Alternatively, you can create the icon following these specifications:
+     - 1024x1024px PNG
+     - Deep blue background (#1e3a5f to #2c5f87 gradient)
+     - Orange/coral brain (#ff6b4a) in center
+     - White circuit connection lines (#f5f5f5) radiating outward
+     - Rounded square shape with modern app icon styling
+-->
